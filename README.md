@@ -1,4 +1,5 @@
-👋 About Me
+#👋 About Me
+
 🎓 Final-year engineering student at ESILV, specializing in Data and Artificial Intelligence. My passion lies in leveraging Data Engineering and Machine Learning to create impactful solutions, focusing on solving complex problems with innovative solutions and driving impactful data-driven decision-making.
 
 💻 Professional Experience:
